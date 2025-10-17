@@ -9,3 +9,10 @@ h1{
     font-size: 100px;
     color: rgb(10, 10, 107);
 }
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: dimgray;
+}
